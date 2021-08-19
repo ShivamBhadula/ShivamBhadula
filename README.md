@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivambhadula" alt="shivambhadula" /></a> </p>
 
+- 🌱 I’m currently learning **Data Analysis**
+
 - 📫 How to reach me **shivam.25.bhadula@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,6 +18,7 @@
 <a href="https://www.hackerrank.com/awesomechampion1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="awesomechampion1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/champi0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="champi0n" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@champion7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@champion7" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shivam25bhadula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivam25bhadula" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
