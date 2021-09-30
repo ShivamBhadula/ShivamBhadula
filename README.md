@@ -32,3 +32,38 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivambhadula&show_icons=true&locale=en" alt="shivambhadula" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivambhadula&" alt="shivambhadula" /></p>
+
+
+
+ <h2 align="center">Trophies</h2>
+<div align="center">
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShivamBhadula)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+    
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ShivamBhadula&count_private=true&show_icons=true&theme=tokyonight" />
+</div>
+    
+ <div align="center">
+     
+     
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=ShivamBhadula&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+</div>
+ 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamBhadula&layout=compact&theme=react&count_private=false" />
+</div>
+
+<div align="center">
+    
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShivamBhadula)  
+</div>
+    
+<div align="center">
+        
+![Profile views](https://gpvc.arturio.dev/ShivamBhadula)  
+ </div>
+
+
