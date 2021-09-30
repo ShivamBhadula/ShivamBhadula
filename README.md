@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Bhadula</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivambhadula&label=Profile%20views&color=0e75b6&style=flat" alt="shivambhadula" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivambhadula" alt="shivambhadula" /></a> </p>
 
 - 🌱 I’m currently  **sleeping**
 
@@ -27,11 +24,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivambhadula&show_icons=true&locale=en&layout=compact" alt="shivambhadula" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivambhadula&show_icons=true&locale=en" alt="shivambhadula" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivambhadula&" alt="shivambhadula" /></p>
 
 
 
@@ -63,7 +56,7 @@
     
 <div align="center">
         
-![Profile views](<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivambhadula&label=Profile%20views&color=0e75b6&style=flat" alt="shivambhadula" /> </p>)  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shivambhadula&label=Profile%20views&color=0e75b6&style=flat" alt="shivambhadula" /> </p>
  </div>
 
 
