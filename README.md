@@ -19,7 +19,7 @@
 
 </h5>
 
-<br>
+<br><br><br>
 <p align="center">
   Hi, I'm Shivam Bhadula, Computer Engineer & Software Developer from India
   <br>
