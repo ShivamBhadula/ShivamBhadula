@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h5 align="center">
+<h5 align="left">
 
   <code><a href="https://www.linkedin.com/in/shivam-bhadula-1b44b921a/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 
