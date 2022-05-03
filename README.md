@@ -6,8 +6,7 @@
   </a>
 </h1>
 
-<h5 align="center">
-<code>
+<p align="center">
   <code><a href="https://www.linkedin.com/in/shivam-bhadula-1b44b921a/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 
   <code><a href="https://www.hackerrank.com/awesomechampion1/" title="HackerRank Profile"><img width="22" src="images/hackerrank.svg"> HackerRank</a></code>
@@ -17,9 +16,8 @@
   <code><a href="https://leetcode.com/Champion_7/" title="Leetcode Profile"><img width="22" src="images/leet-code.svg"> Leetcode</a></code>
 
  <code><a href="https://www.hackerearth.com/@champion7" title="HackerEarth Profile"><img width="22" src="images/hackerearth.svg"> HackerEarth</a></code>
- </code>
 
-</h5>
+</p>
 
 <br>
 <p align="center">
