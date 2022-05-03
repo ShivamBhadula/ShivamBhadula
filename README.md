@@ -6,15 +6,11 @@
   </a>
 </h1>
 
-<h5 align="center">
+<h5>
   <code><a href="https://www.linkedin.com/in/shivam-bhadula-1b44b921a/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-<br><br>
   <code><a href="https://www.hackerrank.com/awesomechampion1/" title="HackerRank Profile"><img width="22" src="images/hackerrank.svg"> HackerRank</a></code>
-<br><br>
   <code><a href="https://codeforces.com/profile/Champion_7/" title="Codeforces Profile"><img width="22" src="images/codeforces.svg"> Codeforces</a></code>
-<br><br>
   <code><a href="https://leetcode.com/Champion_7/" title="Leetcode Profile"><img width="22" src="images/leet-code.svg"> Leetcode</a></code>
-<br><br>
  <code><a href="https://www.hackerearth.com/@champion7" title="HackerEarth Profile"><img width="22" src="images/hackerearth.svg"> HackerEarth</a></code>
 
 </h5>
