@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/shivam-bhadula-1b44b921a/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-
+<br>
   <code><a href="https://www.hackerrank.com/awesomechampion1/" title="HackerRank Profile"><img width="22" src="images/hackerrank.svg"> HackerRank</a></code>
 
   <code><a href="https://codeforces.com/profile/Champion_7/" title="Codeforces Profile"><img width="22" src="images/codeforces.svg"> Codeforces</a></code>
