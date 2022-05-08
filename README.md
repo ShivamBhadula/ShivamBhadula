@@ -12,6 +12,7 @@
   <code><a href="https://codeforces.com/profile/Champion_7/" title="Codeforces Profile"><img width="22" src="images/codeforces.svg"> Codeforces</a></code>
   <code><a href="https://leetcode.com/Champion_7/" title="Leetcode Profile"><img width="22" src="images/leet-code.svg"> Leetcode</a></code>
  <code><a href="https://www.hackerearth.com/@champion7" title="HackerEarth Profile"><img width="22" src="images/hackerearth.svg"> HackerEarth</a></code>
+ <code><a href="https://www.codechef.com/users/shiv13" title="CodeChef Profile"><img width="22" src="images/codechef.svg"> CodeChef</a></code>
 
 </h5>
 
